@@ -29,6 +29,6 @@ copy all scripts into that folder
      ./mk_linked_clone.sh <src vm name> <target directory> <new vm name>
 
      e.g. ./mk_linked_clone.sh Win2012BASEIMAGE /vmfs/volumes/mydatastore/demo01 Win2012_001
-           will create and register a new VM(Win2112_001)
+           will create and register a new VM(Win2012_001)
 5. Remove the original VM from your inventory
 
